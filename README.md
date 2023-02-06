@@ -1,6 +1,8 @@
-# Infocasas challenge - Frontend
+# Infocasas Challenge - Frontend
 
 Frontend con React para el challenge de lista de tareas
+
+![Screenshot](./screenshot.jpeg)
 
 ## Requisitos
 
